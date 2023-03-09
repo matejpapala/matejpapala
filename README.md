@@ -2,7 +2,6 @@
 
 
 - Im an IT student that works on something from time to time
-- Make sure to contact me if you wanna know anything
 
 <!--
 **matejpapala/matejpapala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
