@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
--IT student
+- IT student currently at VŠB-TUO
 
 <!--
 **matejpapala/matejpapala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
