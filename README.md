@@ -2,7 +2,6 @@
 
 
 - 📖 IT student currently at VŠB-TUO
-- 🔭 I’m currently working on my small flutter app
 - 🌱 I’m currently learning dart/flutter
 
 <h3 align="left">Languages and Tools:</h3>
